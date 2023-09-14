@@ -1,0 +1,19 @@
+button:hover{
+    background-color: peachpuff;
+    border-color: peachpuff;
+    
+}
+button{
+    background-color: rgb(243, 224, 188);
+    border-color:rgb(243, 224, 188);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-line: none;
+}
+body{
+    background-color: bisque;
+    border-color: bisque;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+    
